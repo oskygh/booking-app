@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  property: one
+  gcr_receipt_number: MyString
+  value_recorded: 9.99
+  agent_name: MyString
+
+two:
+  property: two
+  gcr_receipt_number: MyString
+  value_recorded: 9.99
+  agent_name: MyString
