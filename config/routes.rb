@@ -10,5 +10,5 @@ Rails.application.routes.draw do
   # Defines the root path route ("/")
   root "properties#index"
   get "billings" => "billings#index"
-  get "payments" => "paymentss#index"
+  get "payments" => "payments#index"
 end
